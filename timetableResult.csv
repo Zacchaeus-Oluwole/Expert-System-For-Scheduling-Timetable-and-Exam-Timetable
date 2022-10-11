@@ -1,0 +1,150 @@
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , , , , ,CPE102,CPE107, 
+1,2,Tue, , ,CPE100,CPE100,CPE105, , , , , , 
+2,3,Wed, , , , ,CPE106,CPE101,CPE101, , , , 
+3,4,Thur, ,CPE103,CPE103,CPE103, , , , , ,CPE108,CPE108
+4,5,Fri,CPE109, , , , , , , , ,CPE104,CPE104
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon,CPE207,CPE202,CPE202, , , , , , , , 
+1,2,Tue, , , , ,CPE205,CPE200,CPE200, , , , 
+2,3,Wed, , ,CPE201,CPE201, , , , ,CPE206, , 
+3,4,Thur, , ,CPE208,CPE208, , , , ,CPE203, , 
+4,5,Fri, , , ,CPE209,CPE204,CPE204, , , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon,CPE302, , , , , ,CPE307,CPE307, , , 
+1,2,Tue, , ,CPE305, , , ,CPE300, , , , 
+2,3,Wed,CPE306,CPE306,CPE306, , , , , ,CPE301,CPE301, 
+3,4,Thur, , , , ,CPE303,CPE308,CPE308,CPE308, , , 
+4,5,Fri, , , , , , , , ,CPE309,CPE309,CPE309
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , ,CPE407, , , ,CPE402, , 
+1,2,Tue, , , , , , , , ,CPE400, ,CPE405
+2,3,Wed, , , , , , ,CPE401,CPE406, , , 
+3,4,Thur, , ,CPE403,CPE403,CPE403, , , , ,CPE408,CPE408
+4,5,Fri, , , , , ,CPE409,CPE409,CPE409, ,CPE404,CPE404
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , , ,CPE507,CPE507, ,CPE502,CPE502
+1,2,Tue, , , , , , , , ,CPE505,CPE505, 
+2,3,Wed, ,CPE501,CPE506,CPE506,CPE506, , , , , , 
+3,4,Thur, , , , , , , , , ,CPE508,CPE508
+4,5,Fri,CPE504, , , , ,CPE509, , , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , , , ,CVE107,CVE107,CVE107,CVE102
+1,2,Tue, , , , , , , ,CVE105,CVE105,CVE105,CVE100
+2,3,Wed, , , ,CVE101, , , , ,CVE106,CVE106, 
+3,4,Thur,CVE103,CVE103,CVE108,CVE108, , , , , , , 
+4,5,Fri, , , ,CVE104,CVE104, , , , ,CVE109, 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , ,CVE207, , , , , , 
+1,2,Tue, , , , , ,CVE200, , ,CVE205,CVE205,CVE205
+2,3,Wed,CVE206,CVE206,CVE206, , , , ,CVE201, , , 
+3,4,Thur, , , ,CVE208, , , , , ,CVE203,CVE203
+4,5,Fri, ,CVE209,CVE209,CVE204,CVE204, , , , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , ,CVE302, , , , ,CVE307,CVE307
+1,2,Tue, , , , ,CVE305, , , , ,CVE300, 
+2,3,Wed, ,CVE306,CVE306,CVE306,CVE301, , , , , , 
+3,4,Thur, , , , ,CVE303, , ,CVE308,CVE308, , 
+4,5,Fri,CVE304, , , , ,CVE309, , , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , ,CVE402,CVE402,CVE407,CVE407,CVE407, 
+1,2,Tue, , , ,CVE400,CVE405,CVE405,CVE405, , , , 
+2,3,Wed, , ,CVE401,CVE401,CVE401, , ,CVE406,CVE406, , 
+3,4,Thur, ,CVE403,CVE403, , , ,CVE408,CVE408,CVE408, , 
+4,5,Fri,CVE404, , , , ,CVE409,CVE409,CVE409, , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , , , , ,CVE507,CVE507,CVE507
+1,2,Tue, , ,CVE505,CVE505,CVE505, , , ,CVE500,CVE500, 
+2,3,Wed, ,CVE501, , , , , , , ,CVE506, 
+3,4,Thur,CVE503,CVE503,CVE503, , , , , ,CVE508,CVE508, 
+4,5,Fri, , , , , ,CVE509,CVE509,CVE504, , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , ,EEE107, , ,EEE102,EEE102,EEE102
+1,2,Tue, ,EEE105,EEE105,EEE105, , , , , , , 
+2,3,Wed, ,EEE101, , , , , ,EEE106,EEE106, , 
+3,4,Thur, , , ,EEE103, , , , ,EEE108,EEE108,EEE108
+4,5,Fri, , , , ,EEE104, , ,EEE109,EEE109, , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , ,EEE207,EEE207,EEE207, ,EEE202,EEE202, , 
+1,2,Tue, , , , , , , ,EEE205, , ,EEE200
+2,3,Wed, , , , ,EEE206,EEE206, ,EEE201,EEE201,EEE201, 
+3,4,Thur, , , , ,EEE208, , , , , , 
+4,5,Fri,EEE209,EEE209,EEE204, , , , , , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , ,EEE307,EEE307, , , , 
+1,2,Tue, , , , , , , ,EEE300,EEE305,EEE300, 
+2,3,Wed, , , , ,EEE306,EEE306, ,EEE301,EEE301,EEE301, 
+3,4,Thur, , , , , , , ,EEE308,EEE308,EEE308, 
+4,5,Fri, , , , ,EEE309, , , , ,EEE304,EEE304
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon,EEE407,EEE407, , , , , , ,EEE402,EEE402, 
+1,2,Tue, , , , , ,EEE400,EEE400, , , ,EEE405
+2,3,Wed, , , , , ,EEE406,EEE406,EEE406, , , 
+3,4,Thur, , ,EEE408,EEE408, , , , , , , 
+4,5,Fri, ,EEE404,EEE404, , ,EEE409,EEE409, , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , ,EEE507, , , , , , , ,EEE502
+1,2,Tue, , ,EEE500,EEE500,EEE500,EEE505,EEE505,EEE505, , , 
+2,3,Wed, , ,EEE501,EEE501, , , , ,EEE506,EEE506, 
+3,4,Thur, , , , , ,EEE508,EEE508, ,EEE503,EEE503,EEE503
+4,5,Fri, ,EEE509,EEE509, , , , , ,EEE504,EEE504,EEE504
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , , , , , ,MEE107,MEE107
+1,2,Tue, , , ,MEE100,MEE105, , , , , , 
+2,3,Wed,MEE106,MEE106,MEE106, , , , ,MEE101,MEE101, , 
+3,4,Thur,MEE103,MEE103, , , , , ,MEE108, , , 
+4,5,Fri, , , , , , , , ,MEE104,MEE104,MEE109
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, ,MEE202,MEE202,MEE202, , , ,MEE207,MEE207,MEE207, 
+1,2,Tue, , , , , , , ,MEE205,MEE200,MEE200, 
+2,3,Wed, , ,MEE206,MEE206, , ,MEE201, , , , 
+3,4,Thur, ,MEE208,MEE208, , , , ,MEE203,MEE203,MEE203, 
+4,5,Fri, , , , ,MEE204,MEE204,MEE204, ,MEE209,MEE209,MEE209
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, ,MEE307,MEE307,MEE302, , , , , , , 
+1,2,Tue, ,MEE305, , , ,MEE300, , , , , 
+2,3,Wed,MEE306,MEE306, , ,MEE301,MEE301, , , , , 
+3,4,Thur, , , , ,MEE303,MEE303,MEE308,MEE308,MEE308, , 
+4,5,Fri,MEE304,MEE309,MEE309,MEE309, , , , , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, ,MEE407,MEE407, , ,MEE402,MEE402,MEE402, , , 
+1,2,Tue,MEE400,MEE400,MEE400,MEE405, , , , , , , 
+2,3,Wed, , ,MEE406,MEE406,MEE406, ,MEE401,MEE401, , , 
+3,4,Thur, ,MEE403,MEE403,MEE403, , , , ,MEE408,MEE408,MEE408
+4,5,Fri, , , , , , ,MEE404, ,MEE409,MEE409,MEE409
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon,MEE502,MEE502, , , , , , , ,MEE507,MEE507
+1,2,Tue,MEE505, , , , , , , , , ,MEE500
+2,3,Wed, , , ,MEE506,MEE506, ,MEE501, , , , 
+3,4,Thur,MEE508,MEE508,MEE508, , , , , , , , 
+4,5,Fri, , , ,MEE509,MEE509, , , ,MEE504,MEE504,MEE504
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , ,MTE107, ,MTE102,MTE102,MTE102, 
+1,2,Tue, , ,MTE105, ,MTE100,MTE100, , , , , 
+2,3,Wed, , , ,MTE101,MTE101,MTE106,MTE106,MTE106, , , 
+3,4,Thur, ,MTE108, ,MTE103, , , , , , , 
+4,5,Fri, , ,MTE109,MTE109,MTE109,MTE104,MTE104, , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , ,MTE202,MTE202, , ,MTE207, 
+1,2,Tue, , , , ,MTE205, , ,MTE200,MTE200, , 
+2,3,Wed,MTE201, , ,MTE206,MTE206, , , , , , 
+3,4,Thur, , , , , ,MTE208,MTE208,MTE203, , , 
+4,5,Fri, ,MTE204,MTE204, , , , , , , ,MTE209
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , , , , ,MTE302,MTE307,MTE307,MTE307
+1,2,Tue, , , ,MTE300,MTE300,MTE300,MTE305, , , , 
+2,3,Wed, , , ,MTE306, , , ,MTE301,MTE301, , 
+3,4,Thur, ,MTE308,MTE308,MTE308, , , , , ,MTE303,MTE303
+4,5,Fri, , , , ,MTE304,MTE309,MTE309, , , , 
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon,MTE402,MTE402,MTE402, , , , , ,MTE407, , 
+1,2,Tue, , ,MTE400, , , , ,MTE405,MTE405,MTE405, 
+2,3,Wed, , , ,MTE406, , , ,MTE401, , , 
+3,4,Thur, ,MTE403, , , ,MTE408,MTE408, , , , 
+4,5,Fri, , , , , , ,MTE404,MTE404,MTE409,MTE409,MTE409
+,Number,Days,08:00am,09:00am,10:00am,11:00am,12:00pm,01:00pm,02:00pm,03:00pm,04:00pm,05:00pm,06:00pm
+0,1,Mon, , , , ,MTE502,MTE507, , , , , 
+1,2,Tue,MTE505,MTE505, , , , , , , ,MTE500,MTE500
+2,3,Wed,MTE501, , ,MTE506,MTE506,MTE506, , , , , 
+3,4,Thur, ,MTE503, , , , , , , ,MTE508,MTE508
+4,5,Fri, , , , , , , , ,MTE509, ,MTE504
